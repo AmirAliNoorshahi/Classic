@@ -1,0 +1,269 @@
+header{
+    height: 100px;
+}
+.ig{
+    width: 170px;
+    cursor: pointer;
+}
+.btn{
+    border: 0;
+    color: black;
+}
+a{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    border: 10px solid black;
+    color: black;
+}
+.aa{
+    font-weight: 900;
+}
+.bf:hover{  
+    background-color:rgb(196, 196, 196) ;
+    transition: 0.4s;
+    
+}
+@media(min-width:768px){
+    .bf:hover{
+        background-color: white;
+    }
+}
+a:hover{
+    text-shadow: 5px 5px 10px gray;
+    transform: scale(0.9);
+    transition: 0.5s;
+}
+
+.bc{
+    background-image: url(./assets/images/1.jpg);
+    background-repeat: no-repeat;
+    height: 800px;
+    background-position: center;
+}
+.bt{
+    width: 380px;
+    padding: 20px;
+    border: 0;
+    background-color: green;
+    color: white;
+    font-size: 20px;
+}
+.bn{
+    width: 380px;
+    padding: 20px;
+    border: 0;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-size: 20px;
+}
+.dv{
+    margin-top: 150px;
+}
+.bn:hover{
+    opacity: 0.6;
+    transition: 0.5s;
+}
+.bt:hover{
+    background-color: rgb(74, 73, 73);
+    transition: 0.7s;
+}
+@media (min-width:768px){
+    .bn,.bt{
+        width: 250px;
+    }
+    .dv{
+        margin-top: 330px;
+    }
+    .pp{
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+}
+.p1{
+    font-size: 50px;
+    margin-top: 50px;
+}
+.p2{
+    margin-top: 30px;
+    font-size: 20px;
+}
+.pp{
+    color: white;
+}
+.sc{
+    padding: 20px;
+}
+.uu{
+    background-color: white;
+}
+.ii{
+    height: 50px;
+}
+.ww{
+    font-weight: 300;
+}
+.igg{
+    width: 100%;
+    cursor: pointer;
+}
+.b1{
+    margin-top: 40px;
+    background-color: rgb(226, 220, 220);
+    padding-bottom: 20px;
+}
+.hh{
+    font-size: 40px;
+    font-weight: 300;
+    cursor: pointer;
+}
+.hh:hover{
+    color: green;
+    transition: 0.6s;
+}
+.pp1{
+    font-weight: 300;
+    font-size: 20px;
+}
+.tt{
+    border: 0;
+    border-radius: 3px;
+    background-color: rgb(28, 172, 28);
+    width: 200px;
+    color: white;
+    font-weight: 500;
+}
+.tt:hover{
+    background-color: rgb(57, 131, 214);
+    transition: 0.4s;
+}
+.s2{
+    background-image: url(./assets/images/3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 420px;
+    margin-top: 120px;
+    color: white;
+    padding-top: 1px;
+}
+.tt1{
+    background-color: rgb(70, 150, 70);
+    border: 0;
+    border-radius: 3px;
+    width: 280px;
+    color: white;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: 500;
+}
+.tt1:hover{
+    background-color: rgb(69, 117, 184);
+    transition: 0.6s;
+}
+.ha{
+    font-size: 50px;
+    font-weight: 350;
+    margin-top: 100px;
+}
+.pa{
+    font-size: 20px;
+}
+.pp2{
+    font-weight: 400;
+    font-size:45px ;
+}
+.pp3{
+    font-weight: 400;
+    font-size:20px ;
+    color: gray;
+}
+.gg1{
+    max-width: 100%;
+}
+.gg1:hover{
+    opacity: 0.9;
+    transition: 0.5s;
+    cursor: pointer;
+    transform: scale(0.9);
+}
+.cc{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.gg3{
+    background-position: right;
+}
+.pp4{
+    color: rgb(27, 183, 27);
+    font-weight: 500;
+}
+.vv{
+    background-color: rgb(81, 193, 102);
+    height: 130px;
+    cursor: pointer;
+}
+.vv:hover{
+    background-color: rgb(66, 108, 205);
+    transition: 0.7s;
+}
+.mt{
+    padding: 50px 0;
+    color: white;
+    cursor: pointer;
+}
+.ah{
+    height: 150px;
+    margin-top: 80px;
+}
+.igg{
+    max-width: 100%;
+    height: 600px;
+}
+.cv{
+    font-weight: 400;
+    font-size: 50px;
+}
+.sb{
+    background-image: url(./assets/images/14.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 700px;
+    color: white;
+}
+.hj{
+    border: 15px solid white;
+}
+.ll{
+    font-size: 35px;
+}
+.ee{
+    border: 0;
+    border-radius: 2px;
+    background-color: rgb(32, 164, 32);
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 170px;
+}
+.ft{
+    background-color: rgb(70, 66, 66);
+    padding: 15px;
+    padding-top: 20px;
+}
+.ff{
+    height: 25px;
+    color: white;
+    cursor: pointer;
+    margin-left: 25px;
+}
+.ff:hover{
+    transform: scale(1.1);
+    transition: 0.7s;
+}
+.aq{
+    color: rgb(122, 114, 114);
+    font-size: 14px;
+}
