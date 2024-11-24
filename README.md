@@ -1,2 +1,2 @@
 # Classic
-This Site is For Avada
+<a href="https://amiralinoorshahi.github.io/Classic/">Online Demo</a>
